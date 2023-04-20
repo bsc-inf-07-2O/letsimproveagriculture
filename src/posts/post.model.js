@@ -5,7 +5,8 @@ const post = {
     comments: "",
     name: "",
     imageURL: "",
-    summary: ""
+    summary: "",
 
 }
-         
+ 
+module.exports = post
